@@ -1,4 +1,3 @@
-# $Id: PKGBUILD,v 1.6 2008/03/26 02:51:13 kevin Exp $
 # Maintainer: Tom K <tom@archlinux.org>
 
 pkgname=rrdtool
